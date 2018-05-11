@@ -1,0 +1,9 @@
+package humanResources.factory;
+
+public enum GroupsFactoryTypesEnumeration {
+    ORDINARY_GROUPS_FACTORY,
+    TEXT_FILE_BASED_GROUPS_FACTORY,
+    BINARY_FILE_BASED_GROUPS_FACTORY,
+    SERIALIZED_FILE_BASED_GROUPS_FACTORY,
+    SOCKET_BASED_GROUPS_FACTORY,
+}
